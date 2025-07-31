@@ -11,3 +11,9 @@ Cloud Engineer – Azure (Entry-Level)
 Ideal due to your 4x Azure certifications
 
 Focuses on deploying and managing resources on Azure, sometimes with Terraform or Bicep
+
+addcheck "
+```
+# Terraform configuration for Azure VM deployment" {
+  
+}
